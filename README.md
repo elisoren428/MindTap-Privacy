@@ -1,0 +1,23 @@
+Privacy Policy for MindTap
+Effective Date: May 10, 2025
+
+Overview
+MindTap is a tap-based mobile game developed by Eli Soren. This policy explains how we collect, use, and protect your information. We value your privacy and are committed to transparency.
+
+Information We Collect
+MindTap does not collect any personal data from users. No login is required, and we do not track your identity, device, or interactions.
+
+Third-Party Services
+MindTap may use services like Replit for hosting and Google Play for distribution. These platforms may collect standard analytics or diagnostic data according to their own privacy policies.
+
+Children's Privacy
+MindTap is not directed at children under the age of 13. We do not knowingly collect personal data from children.
+
+Data Security
+Since no personal data is collected, there is no personal information to secure. However, we follow best practices in app development to maintain a secure user experience.
+
+Policy Updates
+This policy may be updated periodically. We will post updates to this page with a revised effective date.
+
+Contact
+For questions or concerns, contact: elisoren@gmail.co
